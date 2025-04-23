@@ -19,6 +19,14 @@ body{
 
 #day1 {
     display: flex;
-    justify-self: center;
-    
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+
+    margin: 10px auto 0 auto;
+
+    border-radius: 40px;
+    height: 4vw;
+    width: 35%;
+    background: linear-gradient(#8e2de2, #4a00e0);
 }

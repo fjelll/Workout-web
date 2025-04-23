@@ -16,3 +16,9 @@ body{
     width: 60%;
     background: linear-gradient(#8e2de2, #4a00e0);
 }
+
+#day1 {
+    display: flex;
+    justify-self: center;
+    
+}
